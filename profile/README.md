@@ -1,20 +1,20 @@
 # Project UzBnB
 
 
-## Introduction
+**Introduction**
 UzBnB connects hosts and guests in Uzbekistan, offering short-term stays and fostering 
 community collaboration for diverse and authentic experiences.
 
-
-## Project Purpose
+**Project Purpose**
 Address local accommodation needs, streamline booking processes, and enhance trust. 
 Key features include property listings, booking management, user profiles, 
 and a review system for transparent and informed decisions.
 
-## Expected Impact
+**Expected Impact**
 Empower hosts, attract travelers, and contribute to the local economy. 
 Build connections, encourage cultural exchange, and provide positive experiences 
 for both hosts and guests.
+
 
 ## Tech Stack
 ![tech-stack](./profile/assets/tech-stack-dark.png#gh-dark-mode-only)
