@@ -1,11 +1,30 @@
-<h1 align="center">Hi 👋, This is UzBnB</h1>
-<h3 align="center">UzBnB connects hosts and guests in Uzbekistan, offering short-term stays and fostering community collaboration for diverse and authentic experiences</h3>
+# Project UzBnB
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> and more... </p>
-You can find full list of our tech stack at [stackshare.io](https://stackshare.io/uzbnb/uzbnb) 
+## Introduction
+UzBnB connects hosts and guests in Uzbekistan, offering short-term stays and fostering 
+community collaboration for diverse and authentic experiences.
 
+
+## Project Purpose
+Address local accommodation needs, streamline booking processes, and enhance trust. 
+Key features include property listings, booking management, user profiles, 
+and a review system for transparent and informed decisions.
+
+## Expected Impact
+Empower hosts, attract travelers, and contribute to the local economy. 
+Build connections, encourage cultural exchange, and provide positive experiences 
+for both hosts and guests.
+
+## Tech Stack
+![tech-stack](./assets/tech-stack-dark.png#gh-dark-mode-only)
+![tech-stack](./assets/tech-stack-light.png#gh-light-mode-only)
+
+## Database Schema
+![database-schema](https://www.plantuml.com/plantuml/dsvg/dLNRRjim37ttLnXvMZ4KM8jr6FBKFn5eYtQqwM98TBfisB-FoXnFYIpNMHu2cvVZmqEAUWq4daQZgrP323MqhHij2JIWD4ZfaOs_gff_7sibzxMoX3twoN8EszT7yEq1_8VdbyyFa-U8NdKAEQDnJYFOoJvuPS2VRirZG2yY_ZWgMVskbkYqpdRA6o3bx0gdrYCGifcKGIxF3FMReiFvjVxfB4vn0Isz6_GTJ__A-yBL9NMBIH-HSfYfSmO9fin2X9noBFEQhu3tsHWdMTJtOiiKH9Jvkf-DwfdwPBYAJMcMEvHzWqa5wB5KRUCaAqhuW-ujlqmlXMbEYMVkio2tm7tmRa1F9t5vA94cHHhJCN-v38B4q7erH4PfLN7CMnGCAgpg3tGxemrAxvm9cHteiEZeHmoKMS-7mvyoPebFj4ucr9y-pNvW95T8LWRwgonEkxjT6gpKpiijoeiEZiuhHYvEvvoqSJBdS8ySS5mzW-SjA2GG5nt_9pDQcHljQ1hqmdL_MxknLUG8j8XZ4T7Ss6XaXjYgmBJkrxOyxdFPkI9HgCj6ZS-p6WDxtvoNISUVlpxaKgslV0jc-P00Ymz-SPnK4D2IEkBjXS2EC78XaUUIZw3hRksnIUARKnRbXk4C9BJZyLhVfDNYZRXxsjMFZ_NExd9HzvU1h8gtLvg_YB_FRfYgjCmZHeHYn2o4STBNZJ0h5HMt_VqioZXb6kdK_oz8SXzKsHfQRsowqQgL5RPHp8q8ESbzUiYhfJstMSSom7O2hsZbQFGV#gh-dark-mode-only) 
+![database-schema](https://www.plantuml.com/plantuml/svg/dLNRRjim37ttLnXvMZ4KM8jr6FBKFn5eYtQqwM98TBfisB-FoXnFYIpNMHu2cvVZmqEAUWq4daQZgrP323MqhHij2JIWD4ZfaOs_gff_7sibzxMoX3twoN8EszT7yEq1_8VdbyyFa-U8NdKAEQDnJYFOoJvuPS2VRirZG2yY_ZWgMVskbkYqpdRA6o3bx0gdrYCGifcKGIxF3FMReiFvjVxfB4vn0Isz6_GTJ__A-yBL9NMBIH-HSfYfSmO9fin2X9noBFEQhu3tsHWdMTJtOiiKH9Jvkf-DwfdwPBYAJMcMEvHzWqa5wB5KRUCaAqhuW-ujlqmlXMbEYMVkio2tm7tmRa1F9t5vA94cHHhJCN-v38B4q7erH4PfLN7CMnGCAgpg3tGxemrAxvm9cHteiEZeHmoKMS-7mvyoPebFj4ucr9y-pNvW95T8LWRwgonEkxjT6gpKpiijoeiEZiuhHYvEvvoqSJBdS8ySS5mzW-SjA2GG5nt_9pDQcHljQ1hqmdL_MxknLUG8j8XZ4T7Ss6XaXjYgmBJkrxOyxdFPkI9HgCj6ZS-p6WDxtvoNISUVlpxaKgslV0jc-P00Ymz-SPnK4D2IEkBjXS2EC78XaUUIZw3hRksnIUARKnRbXk4C9BJZyLhVfDNYZRXxsjMFZ_NExd9HzvU1h8gtLvg_YB_FRfYgjCmZHeHYn2o4STBNZJ0h5HMt_VqioZXb6kdK_oz8SXzKsHfQRsowqQgL5RPHp8q8ESbzUiYhfJstMSSom7O2hsZbQFGV#gh-light-mode-only)
+
+## Other Materials
+- [Group Presentation of the Project](https://docs.google.com/presentation/d/1wsPwd7aHqezjZOQZX2qo2I8EK6tTnWDwqHxhBX7-QfQ/edit?usp=sharing)
+- [Project Proposal](./assets/project-proposal.pdf)
+- [SDS outdated](./assets/sds.pdf)
