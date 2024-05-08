@@ -27,6 +27,8 @@ The repos contain their own README.md to work with them.
 
 
 ## Tech Stack
+> You can find our tech stack on [stackshare.io](https://stackshare.io/uzbnb/uzbnb#stack) 
+
 ![tech-stack](./profile/assets/tech-stack-dark.png#gh-dark-mode-only)
 ![tech-stack](./profile/assets/tech-stack-light.png#gh-light-mode-only)
 
